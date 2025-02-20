@@ -1,3 +1,4 @@
 # danish_demo
 this is my first git repository.
-author - Danish Siddiqui
+<br>
+Author - Danish Siddiqui
